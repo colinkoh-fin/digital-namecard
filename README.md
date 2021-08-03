@@ -1,1 +1,1 @@
-# digital-namecard-BOS
+# digital-namecard
